@@ -1,6 +1,6 @@
 {
   "name": "lac-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "一个 用于学习交流 vue cli 脚手架",
   "main": "index.js",
   "bin": {
@@ -27,9 +27,9 @@
     "figlet": "1.6.0",
     "fs-extra": "11.1.1",
     "ora": "5.4.1",
-    "util": "0.12.5"
+    "util": "0.12.5",
+    "inquirer": "8.0.0"
   },
   "devDependencies": {
-    "inquirer": "8.0.0"
   }
 }
